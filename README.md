@@ -24,6 +24,7 @@ Discover the ultimate productivity tool with our innovative DoMore web applicati
 - Firebase (Firestore for data management, Firebase Authentication)
 - HTML5
 - CSS3 (Flexbox, Media Queries)
+- Tailwind css
 - Google OAuth for authentication
 
 ##### Deployement 
